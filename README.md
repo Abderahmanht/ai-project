@@ -84,4 +84,4 @@ Just like i mentioned in Challenges, an evolved system, and i will probably need
 
 ## Acknowledgments
 
-* THE CODING TRAIN !! He's the best, i've only changed a few things but the project is his.
+* THE CODING TRAIN !! He's the best, i've only changed a few things but the project is his. 

@@ -65,6 +65,8 @@ function Rocket(dna){
     }
   }
 ```
+![image of the rockets trying to reach the white ellipse (target) ... Their only purpose in life ..](/Capture.jpg)
+
 If you want to look at the entire code, here's is the link : https://codepen.io/abderrahmane-el-hathout/pen/OJZPvJp
 
 
